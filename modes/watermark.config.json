@@ -1,18 +1,18 @@
 [{
-	"name": "watermark",
+	"name": "news",
   "sizes": [
     {
-      "name": "Social",
+      "name": "Social (width:600 x height:300)",
       "width": 600,
       "height": 300
     },
     {
-      "name": "Square",
+      "name": "Square (width:600 x height:600)",
       "width": 600,
       "height": 600
     },
     {
-      "name": "Custom",
+      "name": "Custom (width:600 x height:00)",
       "width": 600,
       "height": 320,
       "locked": true
@@ -36,7 +36,7 @@
   "uppercase": false,
   "opacity": ".9",
   "maxWidth": 1274,
-  "defaultText": "Credit",
+  "defaultText": "*** News. 18 May 2020",
   "helpText": "",
   "suffix": {
     "enabled": false,
